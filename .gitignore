@@ -1,0 +1,8 @@
+**__pycache__
+.idea
+**.ipynb_checkpoints
+outputs
+logs
+latent_diffusion.egg-info
+models/ldm/stable-diffusion-v1
+models/downloaded_models
