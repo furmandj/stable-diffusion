@@ -1,0 +1,922 @@
+dog
+cat
+tree
+car
+mountain
+chair
+table
+house
+boat
+bicycle
+airplane
+train
+river
+ocean
+lake
+forest
+flower
+rock
+road
+bridge
+building
+pen
+pencil
+book
+phone
+computer
+television
+refrigerator
+stove
+microwave
+sofa
+bed
+desk
+lamp
+clock
+cup
+plate
+knife
+fork
+spoon
+bottle
+glass
+watch
+shoe
+hat
+shirt
+pants
+dress
+coat
+ball
+toy
+guitar
+piano
+drum
+bus
+truck
+motorcycle
+scooter
+skateboard
+key
+door
+window
+fence
+garden
+park
+beach
+island
+city
+village
+farm
+factory
+office
+school
+restaurant
+supermarket
+theater
+stadium
+museum
+zoo
+aquarium
+library
+church
+mosque
+temple
+camera
+radio
+headphones
+speaker
+suitcase
+bag
+wallet
+box
+umbrella
+newspaper
+magazine
+painting
+sculpture
+photograph
+map
+globe
+apple
+banana
+grape
+strawberry
+pineapple
+mango
+peach
+plum
+blueberry
+raspberry
+coconut
+cherry
+kiwi
+apricot
+nectarine
+avocado
+melon
+watermelon
+papaya
+lemon
+lime
+grapefruit
+pear
+tangerine
+guava
+blackberry
+fig
+pomegranate
+date
+currant
+gooseberry
+elderberry
+lychee
+passionfruit
+jackfruit
+durian
+rambutan
+marionberry
+boysenberry
+cranberry
+clementine
+satsuma
+mandarin
+kumquat
+persimmon
+custard apple
+dragon fruit
+star fruit
+plantain
+artichoke
+asparagus
+bean
+beet
+bell pepper
+broccoli
+brussels sprout
+cabbage
+carrot
+cauliflower
+celery
+chard
+collard greens
+cucumber
+eggplant
+fennel
+garlic
+green bean
+kale
+leek
+lettuce
+mushroom
+okra
+onion
+parsnip
+pea
+potato
+pumpkin
+radish
+rhubarb
+rutabaga
+spinach
+squash
+sweet potato
+tomato
+turnip
+zucchini
+corn
+barley
+wheat
+rice
+oat
+rye
+spelt
+millet
+sorghum
+quinoa
+amaranth
+teff
+buckwheat
+fonio
+kamut
+triticale
+farro
+bulgur
+couscous
+orzo
+seitan
+tempeh
+tofu
+edamame
+lentil
+chickpea
+mung bean
+adzuki bean
+black-eyed pea
+fava bean
+kidney bean
+lima bean
+navy bean
+pinto bean
+cannellini bean
+great northern bean
+borlotti bean
+flageolet bean
+runner bean
+butter bean
+winged bean
+taro
+cassava
+yam
+sago
+jicama
+arrowroot
+ube
+malanga
+boniato
+lotus root
+celeriac
+sunchoke
+kohlrabi
+tiger nut
+breadfruit
+canyon
+prairie
+desert
+tundra
+valley
+volcano
+glacier
+waterfall
+cliff
+dune
+cave
+meadow
+plain
+marsh
+swamp
+delta
+fjord
+bay
+cove
+estuary
+geyser
+coral reef
+butte
+mesa
+plateau
+steppe
+savanna
+rainforest
+oasis
+derrick
+wind turbine
+solar panel
+hydroelectric dam
+tunnel
+skyscraper
+tower
+monument
+landfill
+mine
+quarry
+greenhouse
+orchard
+vineyard
+apiary
+barn
+silo
+windmill
+lighthouse
+cabin
+tent
+teepee
+igloo
+yurt
+caravan
+hut
+lean-to
+hammock
+sleeping bag
+backpack
+compass
+binoculars
+telescope
+microscope
+magnifying glass
+flashlight
+torch
+lantern
+match
+lighter
+candle
+fire extinguisher
+padlock
+hinge
+nail
+screw
+bolt
+nut
+washer
+anchor
+pulley
+winch
+crowbar
+shovel
+rake
+hoe
+pickaxe
+axe
+saw
+drill
+wrench
+pliers
+hammer
+screwdriver
+chisel
+file
+level
+tape measure
+ruler
+scissors
+stapler
+glue
+adhesive tape
+rubber band
+paperclip
+thumbtack
+pin
+needle
+thread
+yarn
+zipper
+button
+ribbon
+lace
+elastic
+velcro
+hook
+loom
+sewing machine
+knitting needle
+crochet hook
+easel
+palette
+paintbrush
+crayon
+pastel
+charcoal
+ink
+fountain pen
+ballpoint pen
+marker
+highlighter
+eraser
+sharpener
+stencil
+ruler
+protractor
+compass
+calculator
+abacus
+typewriter
+printer
+photocopier
+fax machine
+projector
+video camera
+tripod
+remote control
+game console
+joystick
+mouse
+keyboard
+monitor
+webcam
+router
+modem
+hard drive
+USB stick
+memory card
+CD
+DVD
+vinyl record
+cassette tape
+VHS tape
+battery
+charger
+thunderbolt
+lightning
+lightning bolt
+blanket
+iphone
+phone
+tablet
+laptop
+desktop
+television
+radio
+tesla
+car
+bear
+Lion
+Elephant
+Giraffe
+Tiger
+Gorilla
+Chimpanzee
+Zebra
+Hippopotamus
+Rhino
+Cheetah
+Panda
+Koala
+Kangaroo
+Platypus
+Crocodile
+Alligator
+Shark
+Dolphin
+Whale
+Octopus
+Squid
+Jellyfish
+Starfish
+Sea turtle
+Crab
+Lobster
+Shrimp
+Snail
+Slug
+Ant
+Bee
+Butterfly
+Spider
+Scorpion
+Grasshopper
+Ladybug
+Fly
+Mosquito
+Cockroach
+Rat
+Mouse
+Hamster
+Guinea pig
+Rabbit
+Hedgehog
+Fox
+Wolf
+Coyote
+Deer
+Moose
+Elk
+Bison
+Gazelle
+Antelope
+Hyena
+Meerkat
+Otter
+Seal
+Walrus
+Penguin
+Ostrich
+Emu
+Bald eagle
+Hawk
+Falcon
+Owl
+Pelican
+Flamingo
+Toucan
+Parrot
+Hummingbird
+Pigeon
+Sparrow
+Seagull
+Crow
+Raven
+Peacock
+Llama
+Alpaca
+Yak
+Camel
+Horse
+Donkey
+Sheep
+Goat
+Cow
+Pig
+Chicken
+Turkey
+Duck
+Goose
+Swan
+Crocodile
+Aligator
+Seal
+Walrus
+Platypus
+Kangaroo
+Komodo Dragon
+Sloth
+Lemur
+Gibbon
+Aye-aye
+Baboon
+Capuchin
+monkey
+Orangutan
+Snow leopard
+Lynx
+Bobcat
+Jaguar
+Panther
+Snowy owl
+Golden eagle
+Harpy eagle
+Osprey
+Vulture
+Condor
+Pelican
+Spoonbill
+Stork
+ibis
+Kiwi bird
+Emu
+Cassowary
+American black bear
+Grizzly bear
+Polar bear
+Red panda
+Raccoon
+Skunk
+Otter
+Badger
+Beaver
+Walrus
+Moose
+Reindeer
+Camel
+Giraffe
+Sloth
+Armadillo
+Hedgehog
+Chinchilla
+Ferret
+Sugar glider
+Squirrel
+Chipmunk
+Prairie dog
+Mole
+Lemming
+Opossum
+Red kangaroo
+Tasmanian devil
+Wombat
+Hammerhead shark
+Tiger shark
+Mako shark
+Humpback whale
+Beluga whale
+Narwhal
+Killer whale
+Manatee
+Sea otter
+Eel
+Barracuda
+Swordfish
+Tuna
+Lobster
+Crab
+Shrimp
+Clam
+Squid
+Cuttlefish
+Starfish
+Sea urchin
+Sea anemone
+Box jellyfish
+Firefly
+Glow worm
+Butterfly
+Moth
+Dragonfly
+Damselfly
+Beetle
+Grasshopper
+Praying mantis
+Walking stick insect
+Centipede
+Millipede
+Earthworm
+Leech
+Mosquito
+Housefly
+Tick
+Mantis shrimp
+Hermit crab
+Sea horse
+Clownfish
+Seahorse
+Moray eel
+Nurse shark
+Komodo dragon
+Gila monster
+King cobra
+Rattlesnake
+Boa constrictor
+Green anaconda
+Black mamba
+Crocodile monitor
+Frilled lizard
+Iguana
+Green tree python
+Saltwater crocodile
+Hippopotamus
+Bengal tiger
+African elephant
+Chimpanzee
+Mountain gorilla
+Blue whale
+Gray wolf
+Arctic fox
+Bengal fox
+Red fox
+Arctic hare
+Red squirrel
+Black bear
+Cinnamon bear
+Grizzly bear
+Giant panda
+Red kangaroo
+Tasmanian devil
+Platypus
+Koala
+Emperor penguin
+King penguin
+Adelie penguin
+Galapagos penguin
+African penguin
+Rockhopper penguin
+Macaroni penguin
+Gentoo penguin
+Narwhal
+Beluga whale
+Sperm whale
+Pilot whale
+Dusky dolphin
+Bottlenose dolphin
+Orca
+Humpback whale
+Hammerhead shark
+Mako shark
+Blacktip shark
+White shark
+Sand tiger shark
+Lemon shark
+Thresher shark
+Sawfish
+Barracuda
+Squid
+Cuttlefish
+Octopus
+Nautilus
+Jellyfish
+Sea anemone
+Sea cucumber
+Starfish
+Lobster
+Crab
+Shrimp
+Oyster
+Scallop
+Mussel
+Snail
+Clam
+Sea urchin
+Firefly
+Butterfly
+Moth
+Dragonfly
+Ladybird beetle
+Stag beetle
+Stick insect
+Praying mantis
+Tarantula
+Scorpion
+Honey bee
+Bumblebee
+Carpenter bee
+Hornet
+Wasp
+Ant
+Grasshopper
+Crayfish
+Coral
+Sea fan
+Sea sponge
+Sea horse
+Clownfish
+Sea star
+Sea snake
+Sea lion
+Jaguar
+Gazelle
+Sloth
+Mongoose
+Hyena
+Puma
+Lemur
+Panther
+Bobcat
+Wildebeest
+Tapir
+Armadillo
+Okapi
+Aardvark
+Antelope
+Meerkat
+Zebra
+Capybara
+Gorilla
+Orangutan
+Macaque
+Seal
+Yak
+Raccoon
+Beaver
+Otter
+Kangaroo
+Koala
+Squirrel
+Rabbit
+Fox
+Wolf
+Bear
+Giraffe
+Camel
+Bison
+Deer
+Moose
+Rhinoceros
+Elephant
+Baboon
+Lemming
+Hamster
+Hedgehog
+Shrew
+Mouse
+Rat
+Bat
+Platypus
+Penguin
+Ostrich
+Emu
+Swan
+Pelican
+Falcon
+Eagle
+Hawk
+Seagull
+Pigeon
+Parrot
+Cuckoo
+Woodpecker
+Crow
+Sparrow
+Buzzard
+Vulture
+Cockatoo
+Flamingo
+Swan
+Dove
+Hummingbird
+Osprey
+Cheetah
+Lion
+Tiger
+Leopard
+Snow leopard
+Lynx
+Panther
+Coyote
+Badger
+Skunk
+Chipmunk
+Beaver
+Marmot
+Groundhog
+Kangaroo
+Wombat
+Tasmanian devil
+Mole
+Squirrel
+Bat
+Llama
+Alpaca
+Vicuna
+Goat
+Sheep
+Cow
+Bison
+Pig
+Coyote
+Ocelot
+Pangolin
+Caracal
+Bobcat
+Stoat
+Fossa
+Lemming
+Tapir
+Ibex
+Marten
+Muskrat
+Civet
+Serval
+Hyrax
+Springbok
+Hare
+Jerboa
+Vicuna
+Mandrill
+Zebu
+Mule
+Llama
+Kakapo
+Toucan
+Boar
+Sloth
+Dugong
+Kinkajou
+Red panda
+Nutria
+Puma
+Okapi
+Pangolin
+Wildebeest
+Warthog
+Gazelle
+Civet
+Echidna
+Coati
+Bilby
+Anteater
+Wallaby
+Yak
+Kangaroo
+Chipmunk
+Squirrel
+Otter
+Beaver
+Gopher
+Chinchilla
+Opossum
+Mongoose
+Armadillo
+Red fox
+Wolverine
+Lemur
+Capuchin
+Gibbon
+Pudu
+Emu
+Kiwi
+Platypus
+Aardvark
+Tapir
+Lynx
+Jaguar
+Manatee
+Narwhal
+Walrus
+Muskox
+Orangutan
+Gorilla
+Bonobo
+Chimpanzee
+Lemming
+Okapi
+Puma
+Bobcat
+Wildebeest
+Armadillo
+Platypus
+Chinchilla
+Mongoose
+Meerkat
+Squirrel
+Rabbit
+Vole
+Hedgehog
+Koala
+Badger
+Elk
+Bison
+Reindeer
+Hippopotamus
+Kangaroo
+Cheetah
+Gazelle
+Ibex
+Warthog

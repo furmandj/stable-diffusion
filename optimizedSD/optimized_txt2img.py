@@ -263,7 +263,9 @@ with torch.no_grad():
     for n in trange(opt.n_iter, desc="Sampling"):
         for prompts in tqdm(data, desc="data"):
 
-            sample_path = os.path.join(outpath, "_".join(re.split(":| ", prompts[0])))[:150]
+            # sample_path = os.path.join(outpath, "_".join(re.split(":| ", prompts[0])))[:150]
+            n_dirs = len(os.listdir(outpath))
+            sample_path = os.path.join(outpath, f"{n_dirs + 1:07d}")
             os.makedirs(sample_path, exist_ok=True)
             base_count = len(os.listdir(sample_path))
 
@@ -306,7 +308,7 @@ with torch.no_grad():
                     unconditional_conditioning=uc,
                     eta=opt.ddim_eta,
                     x_T=start_code,
-                    sampler = opt.sampler,
+                    sampler=opt.sampler,
                 )
 
                 modelFS.to(opt.device)
