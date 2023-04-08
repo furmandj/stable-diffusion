@@ -1,7 +1,5 @@
-import os
 import time
 import glob
-from copy import copy
 
 import cv2
 import numpy as np
